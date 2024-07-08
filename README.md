@@ -27,7 +27,7 @@ Details on how to set up and run this project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Omii2899/Room_Occupancy_Prediction.git
+   git clone https://github.com/yashasvi14/Room_Occupancy_Prediction.git
    ```
 2. Install the required packages
    ```bash
